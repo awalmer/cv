@@ -1,6 +1,6 @@
 ---
 sidebar: false
-header: <b>Aura Walmer</b> | &nbsp; Curriculum Vitae
+header: <b>Aura Walmer</b> | &nbsp; <a href="">Curriculum Vitae</a>
 title: "Aura Walmer CV"
 footer: false
 pager: false
@@ -230,9 +230,13 @@ Probability & Statistics for Deep Learning, Data Science in R</em></p>
     <div style="margin: 10px 0;"></div>
 </ul>
 
+---
 
-<h1 class><a href="">↑</a></h1>
+<p class="link-color-special" style="max-width: 92%;">References are available upon request. <br> <br> Visit <a href="https://aurawalmer.com/" target="_blank">www.aurawalmer.com</a> for respective portfolios on data-driven projects, artwork, and audio.
+</p>
 
+
+<h1><a href="">↑</a></h1>
 
 
 
