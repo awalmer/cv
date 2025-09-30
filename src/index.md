@@ -163,7 +163,7 @@ Probability & Statistics for Deep Learning, Data Science in R</em></p>
 <ul style="max-width: 80%;">
   <li class="link-color-special"><b>ICAD Conference 2024</b>  
     <br>
-    Presented research paper on sonification project with Georgia Tech. Discussed accessible multimodal methodw for experiencing the 2024 eclipse. Find conference proceedings <a href="" target="_blank">here</a>. (June 2024)</li>
+    Presented research paper on sonification project with Georgia Tech. Discussed accessible multimodal methods for experiencing the 2024 eclipse. Find conference proceedings <a href="" target="_blank">here</a>. (June 2024)</li>
     <div style="margin: 10px 0;"></div>
 
   <li class="link-color-special"><b>AIGA Design Conference 2024</b>  
