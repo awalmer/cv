@@ -1,7 +1,7 @@
 ---
 sidebar: false
 header: <b>Aura Walmer</b> | &nbsp; Curriculum Vitae
-title: "CV"
+title: "Aura Walmer CV"
 footer: false
 pager: false
 toc: true
