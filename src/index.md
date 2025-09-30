@@ -231,18 +231,19 @@ Probability & Statistics for Deep Learning, Data Science in R</em></p>
 </ul>
 
 
-<!-- 
-<h1 class><a href="#">↑</a></h1>
--->
+<h1 class><a href="">↑</a></h1>
+
 
 
 
 <!-- Special styling for professional experience! -->
 <style>
 
+/*
 #observablehq-header {
   position: absolute;
 }
+*/
     .single-spaced {
     margin-top: 2em;
     }
