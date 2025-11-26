@@ -4,7 +4,7 @@ header: <b>Aura Walmer</b> &nbsp; | &nbsp; <a href="">Curriculum Vitae</a>
 title: "Aura Walmer CV"
 footer: false
 pager: false
-toc: true
+toc: false
 theme: ink
 ---
 
@@ -12,11 +12,11 @@ theme: ink
 
 <!-- Can add "toc: {label: "Sections", show: true}," to config.js file if desired to change Content TOC heading -->
 
-<h1 style="max-width: 100%; font-size: 172%;">Information designer | programmer | researcher | musician</h1>
+<h1 style="max-width: 100%; font-size: 172%; margin-top: 1rem;">Information designer | programmer | researcher | musician</h1>
 
 <p style="max-width: 92%; font-size: 1.13rem">Combining data, audio, and visuals to communicate information in unique and creative ways. <br>Using interdisciplinary methods to explore and perform multimodal expressions of data.</p>
 
-<p  class="link-color-special"><a href="https://aurawalmer.com/" target="_blank">www.aurawalmer.com</a> &nbsp; • &nbsp; aurawalmer@gmail.com</p>
+<p  class="link-color-special"><a href="https://aurawalmer.com/" target="_blank">www.aurawalmer.com</a> &nbsp; • &nbsp; aurawalmer@gmail.com  &nbsp; • &nbsp; (619) 507-1532</p>
 
 ---
 
@@ -59,9 +59,12 @@ Building a data sonification toolkit designed to centralize the wide array of so
 Toolkit: <a href="https://www.sonificationkit.com/" target="_blank">www.sonificationkit.com</a> | Monthly Articles: <a href="https://rjionline.org/person/auralee-walmer/" target="_blank">RJI Online</a>
 </p>
 
+
+
 <div class="single-spaced">
     <h3>Research Associate</h3>
     <p>Georgia Institute of Technology | Remote</p>
+    <br>
     <p><em>March 2023 – June 2024</em></p>
 </div>
 <p style="max-width: 80%;">
@@ -97,7 +100,6 @@ See portfolio for project listings: <a href="https://aurawalmer.com/data" target
         <li>Co-authored a scientific paper presenting new methodology (<a href="https://doi.org/10.1080/19420862.2022.2094750" target="_blank">mAbs Journal 2022</a>).</li>
     </ul>
 </p>
-
 
 <div class="single-spaced">
     <h3>Research Associate</h3>
@@ -161,8 +163,6 @@ Probability & Statistics for Deep Learning, Data Science in R</em></p>
 ---
 
 <!-- <h2>Presentations</h2> -->
-
-## Presentations
 
 <ul style="max-width: 80%;">
   <li class="link-color-special"><b>ICAD Conference 2024</b>  
@@ -256,16 +256,16 @@ Probability & Statistics for Deep Learning, Data Science in R</em></p>
 <!-- Special styling for professional experience! -->
 <style>
 
-/*
 #observablehq-header {
   position: absolute;
+  font-size: 140%;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  padding-bottom: 1rem;
 }
-*/
 
-#observablehq-header {
-  font-size: 110%;
-  padding-top: 0.8rem;
-  padding-bottom: 0.8rem;
+#observablehq-header a {
+  color: #8FBFF2;
 }
 
     .single-spaced {
