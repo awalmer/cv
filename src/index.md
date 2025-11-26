@@ -167,42 +167,42 @@ Probability & Statistics for Deep Learning, Data Science in R</em></p>
 <ul style="max-width: 80%;">
   <li class="link-color-special"><b>ICAD Conference 2024</b>  
     <br>
-    Presented research paper on sonification project with Georgia Tech. Discussed accessible multimodal methods for experiencing the 2024 eclipse. Find conference proceedings <a href="" target="_blank">here</a>. (June 2024)</li>
+    Presented research paper on sonification project with Georgia Tech. Discussed accessible multimodal methods for experiencing the 2024 eclipse. <a href="" target="_blank">Conference proceedings</a>. (June 2024)</li>
     <div style="margin: 10px 0;"></div>
 
   <li class="link-color-special"><b>AIGA Design Conference 2024</b>  
     <br>
-    Presented data sonification applications to information design. Shared research, examples, and my fellowship project. Watch presentation recording <a href="https://youtu.be/fw44xTTtDJ8" target="_blank">here</a>. (October 2024)</li>
+    Presented methods of data sonification for information design. Shared research, examples, and fellowship project. <a href="https://youtu.be/fw44xTTtDJ8" target="_blank">Presentation recording</a>. (October 2024)</li>
     <div style="margin: 10px 0;"></div>
 
   <li class="link-color-special"><b>Cumulus Design Conference 2024</b>  
     <br>
-    Presented a speculative research paper proposing the adoption of design-conscious data sonification in information design. Find conference proceedings <a href="https://www.udem.edu.mx/sites/default/files/2025-05/Cumulus%20Monterrey%20Book.pdf" target="_blank" >here</a>. (October 2024)</li>
+    Presented a speculative research paper proposing the adoption of design-conscious data sonification in information design. <a href="https://www.udem.edu.mx/sites/default/files/2025-05/Cumulus%20Monterrey%20Book.pdf" target="_blank" >Conference proceedings</a>. (October 2024)</li>
     <div style="margin: 10px 0;"></div>
 
   <li class="link-color-special"><b>NICAR Conference 2025</b> 
     <br>
-    Led a data sonification workshop for journalists. Presented my fellowship project, <a href="https://www.sonificationkit.com/" target="_blank">The Data Sonification Toolkit</a>, as a supportive resource for participants. Find workshop description <a href="https://schedules.ire.org/nicar-2025/index.html#3033" target="_blank">here</a>. (March 2025)</li>
+    Led a data sonification workshop for journalists. Presented fellowship project, the <a href="https://www.sonificationkit.com/" target="_blank">Data Sonification Toolkit</a>, as a supportive resource for participants. <a href="https://schedules.ire.org/nicar-2025/index.html#3033" target="_blank">Workshop description</a>. (March 2025)</li>
     <div style="margin: 10px 0;"></div>
 
   <li class="link-color-special"><b>IRE Conference 2025</b>  
     <br>
-    Led a data sonification workshop for journalists. With reference to my <a href="https://www.sonificationkit.com/" target="_blank">Data Sonification Toolkit</a> project, I guided participants through hands-on exercises. Find workshop description <a href="https://schedules.ire.org/ire-2025/index.html#2162" target="_blank">here</a>. (June 2025)</li>
+    Led a data sonification workshop for journalists. Guided participants through laptop-based sonification exercises, using the <a href="https://www.sonificationkit.com/" target="_blank">Data Sonification Toolkit</a> as a reference. <a href="https://schedules.ire.org/ire-2025/index.html#2162" target="_blank">Workshop description</a>. (June 2025)</li>
     <div style="margin: 10px 0;"></div>
 
   <li class="link-color-special"><b>SRCCON Conference 2025</b>  
     <br>
-    Presented methods of sensory-driven journalism, such as data sonification, ambient soundscapes, and multimodal design as an alternative to anxiety-inducing news formats. Find workshop description <a href="https://2025.srccon.org/schedule/#_session-news-but-asmr" target="_blank">here</a>. (July 2025)</li>
+    Presented methods of sensory-driven journalism as alternatives to anxiety-inducing news formats. These included data sonification, ambient soundscapes, and multimodal design. <a href="https://2025.srccon.org/schedule/#_session-news-but-asmr" target="_blank">Workshop description</a>. (July 2025)</li>
     <div style="margin: 10px 0;"></div>
 
   <li class="link-color-special"><b>SoniTEA Conference 2025</b>  
     <br>
-    Presented latest features of the <a href="https://www.sonificationkit.com/" target="_blank">Data Sonification Toolkit</a>. Find conference description <a href="https://www.simonsfoundation.org/event/sonitea/" target="_blank">here</a>.</li>
+    Presented latest features of the <a href="https://www.sonificationkit.com/" target="_blank">Data Sonification Toolkit</a> to researchers. <a href="https://www.simonsfoundation.org/event/sonitea/" target="_blank">Conference description</a>. (October 2025)</li>
     <div style="margin: 10px 0;"></div>
 
-  <li class="link-color-special"><b>Information Plus 2025</b>  
+  <li class="link-color-special"><b>Information Plus Conference 2025</b>  
     <br>
-    Led a 3-hour data sonification workshop. Participants (20 attendees) engages in hands-on sonification design exercises, spatial sonfication, and embodied data practices. Presented the <a href="https://www.sonificationkit.com/" target="_blank">Data Sonification Toolkit</a>, shared examples, and led discussions on the varied efficacy of sonification approaches. Find workshop description <a href="https://informationplusconference.com/2025/workshops/" target="_blank">here</a>.</li>
+    Led a 3-hour data sonification workshop. Participants (20 attendees) engaged in hands-on sonification design exercises, spatial sonfication, and embodied data practices. Presented the <a href="https://www.sonificationkit.com/" target="_blank">Data Sonification Toolkit</a>, shared examples, and led discussions on the varied efficacy of sonification approaches. <a href="https://informationplusconference.com/2025/workshops/" target="_blank">Workshop description</a>. (November 2025)</li>
     <div style="margin: 10px 0;"></div>
 
 </ul>
