@@ -14,7 +14,7 @@ theme: ink
 
 <h1 style="max-width: 100%; font-size: 172%; margin-top: 1rem;">Information designer | programmer | researcher | musician</h1>
 
-<p style="max-width: 92%; font-size: 1.13rem">Combining data, audio, and visuals to communicate information in unique and creative ways. <br>Using interdisciplinary methods to explore and perform multimodal expressions of data.</p>
+<p style="max-width: 92%; font-size: 1.13rem">Combining data, audio, and visuals to communicate information in unique and creative ways. <br>Using interdisciplinary methods to explore multimodal expressions of data.</p>
 
 <p  class="link-color-special"><a href="https://aurawalmer.com/" target="_blank">www.aurawalmer.com</a> &nbsp; • &nbsp; aurawalmer@gmail.com  &nbsp; • &nbsp; (619) 507-1532</p>
 
@@ -45,7 +45,10 @@ theme: ink
     <p>University of Michigan | Remote</p>
     <p><em>July 2024 — Present</em></p>
 </div>
-<p style="max-width: 80%;">Processing and enhancing the data and documentation of research studies submitted to ICPSR. This includes writing code for batch processing, data cleaning, quality review, and metadata creation. This work often involves using R, Python, SPSS, and/or SAS to process data.</p>
+<p style="max-width: 80%;" class="link-color-special">Processing and enhancing data and documentation for <a href="https://www.icpsr.umich.edu/sites/icpsr/home" target="_blank">ICPSR</a> research studies. Using R, Python, SPSS, and/or SAS to handle data. Writing code for batch processing, data cleaning, quality review, and metadata creation.
+<br>
+Built an internal R package that builds file templates for larger study deposits.
+</p>
 
 
 <div class="single-spaced">
@@ -54,7 +57,7 @@ theme: ink
     <p><em>May 2024 – Present</em></p>
 </div>
 <p style="max-width: 80%;" class="link-color-special">
-Building a data sonification toolkit designed to centralize the wide array of sonification resources. The aim of this project is to help journalists and information designers learn about sonification and encourage them to use this unique and accessible method of conveying information.
+Building a data sonification toolkit designed to centralize a wide array of sonification resources. The aim of this project is to help journalists and information designers learn about sonification and encourage them to use this unique and accessible method of conveying information.
 <br>
 Toolkit: <a href="https://www.sonificationkit.com/" target="_blank">www.sonificationkit.com</a> | Monthly Articles: <a href="https://rjionline.org/person/auralee-walmer/" target="_blank">RJI Online</a>
 </p>
@@ -70,7 +73,7 @@ Toolkit: <a href="https://www.sonificationkit.com/" target="_blank">www.sonifica
 <p style="max-width: 80%;">
     <ul style="max-width: 70%;">
         <li>Developed accessible, sound-based educational resources with the Georgia Tech Sonification Lab.</li>
-        <li>Presented at the International Conference on Auditory Display (ICAD 2024). Publication: "Accessible Sonification of Total Solar Eclipse 2024."</li>
+        <li class="link-color-special">Presented at the International Conference on Auditory Display (ICAD 2024). Publication: "<a href="https://icad2024.icad.org/wp-content/uploads/2024/06/ICAD_2024_paper_30.pdf" target="_blank">Accessible Sonification of Total Solar Eclipse 2024</a>."</li>
         <li>Built a custom website, wrote scripts in Python, and generated sonifications in Highcharts.</li>
     </ul>
 </p>
@@ -114,7 +117,12 @@ See portfolio for project listings: <a href="https://aurawalmer.com/data" target
     <p>Innovations for Poverty Action | Cusco, Peru</p>
     <p><em>September 2016 – December 2016</em></p>
 </div>
-<p style="max-width: 80%;">Assisted a development economics study (longitudinal, randomized controlled trial) measuring the impact of an informational treatment on beliefs about education in Peru. Conducted data cleaning and analysis, monitored data collection in rural regions, coded electronic surveys, and trained surveyors.</p>
+<p style="max-width: 80%;">Assisted a development economics study (randomized controlled trial) measuring the 
+<br>
+<br>
+<br>
+<br>
+impact of an informational treatment on beliefs about education in Peru. Conducted data cleaning and analysis, monitored data collection in rural regions, coded electronic surveys, and trained surveyors.</p>
 
 
 <!-- Template for Role section:
@@ -156,6 +164,7 @@ Probability & Statistics for Deep Learning, Data Science in R</em></p>
         <li>Audio Engineering Fundamentals | Studio West | 2021</li>
         <li>History of Renaissance to Modern Art | MiraCosta College | 2022</li>
         <li>Adobe Illustrator Digital Illustration | MiraCosta College | 2023</li>
+        <li>Web Design Fundamentals | MiraCosta College | 2024</li>
     </ul>
 </div>
 
@@ -164,10 +173,12 @@ Probability & Statistics for Deep Learning, Data Science in R</em></p>
 
 <!-- <h2>Presentations</h2> -->
 
+## Presentations
+
 <ul style="max-width: 80%;">
   <li class="link-color-special"><b>ICAD Conference 2024</b>  
     <br>
-    Presented research paper on sonification project with Georgia Tech. Discussed accessible multimodal methods for experiencing the 2024 eclipse. <a href="" target="_blank">Conference proceedings</a>. (June 2024)</li>
+    Presented research paper on sonification project with Georgia Tech. Discussed accessible multimodal methods for experiencing the 2024 eclipse. <a href="https://hdl.handle.net/1853/76316" target="_blank">Conference proceedings</a>. (June 2024)</li>
     <div style="margin: 10px 0;"></div>
 
   <li class="link-color-special"><b>AIGA Design Conference 2024</b>  
@@ -181,6 +192,9 @@ Probability & Statistics for Deep Learning, Data Science in R</em></p>
     <div style="margin: 10px 0;"></div>
 
   <li class="link-color-special"><b>NICAR Conference 2025</b> 
+    <br>
+    <br>
+    <br>
     <br>
     Led a data sonification workshop for journalists. Presented fellowship project, the <a href="https://www.sonificationkit.com/" target="_blank">Data Sonification Toolkit</a>, as a supportive resource for participants. <a href="https://schedules.ire.org/nicar-2025/index.html#3033" target="_blank">Workshop description</a>. (March 2025)</li>
     <div style="margin: 10px 0;"></div>
@@ -205,6 +219,11 @@ Probability & Statistics for Deep Learning, Data Science in R</em></p>
     Led a 3-hour data sonification workshop. Participants (20 attendees) engaged in hands-on sonification design exercises, spatial sonfication, and embodied data practices. Presented the <a href="https://www.sonificationkit.com/" target="_blank">Data Sonification Toolkit</a>, shared examples, and led discussions on the varied efficacy of sonification approaches. <a href="https://informationplusconference.com/2025/workshops/" target="_blank">Workshop description</a>. (November 2025)</li>
     <div style="margin: 10px 0;"></div>
 
+  <li class="link-color-special"><b>Living Data Sonification Concert 2025</b>  
+    <br>
+    Performed at Whitman College on Nov. 7th, 2025. Each contributor shared sound works inspired by the theme "living data." Performers: Aura Walmer, Jordan Wirfs-Brock, Tristan Peng, and Walker Smith. Website: <a href="https://www.livingdata.live/" target="_blank">www.livingdata.live</a>. </li>
+    <div style="margin: 10px 0;"></div>
+
 </ul>
 
 
@@ -221,7 +240,7 @@ Probability & Statistics for Deep Learning, Data Science in R</em></p>
     <div style="margin: 10px 0;"></div>
     <li class="link-color-special"><b>"Accessible Sonification of Total Solar Eclipse 2024: Accessible Map and Multimodal Virtual Reality Experience"</b>  
     <br>
-    ICAD Conference Proceedings 2024 | <a href="https://tinyurl.com/GTeclipse2024" target="_blank">Project webpage</a> | June 2024</li>
+    ICAD Conference Proceedings 2024 | <a href="https://icad2024.icad.org/wp-content/uploads/2024/06/ICAD_2024_paper_30.pdf" target="_blank">Paper</a> | <a href="https://tinyurl.com/GTeclipse2024" target="_blank">Project webpage</a> | June 2024</li>
     <div style="margin: 10px 0;"></div>
     <li class="link-color-special"><b>"The Data Diaries: Data Sonification of the Total Solar Eclipse"</b>  
     <br>
@@ -231,10 +250,13 @@ Probability & Statistics for Deep Learning, Data Science in R</em></p>
     <br>
     Cumulus Design Conference <a href="https://www.udem.edu.mx/sites/default/files/2025-05/Cumulus%20Monterrey%20Book.pdf" target="_blank">Proceedings</a> 2024 | October 2024</li>
     <div style="margin: 10px 0;"></div>
-    <li class="link-color-special"><b>Journalism Fellowship Articles</b>  
+    <li class="link-color-special"><b>RJI Fellowship Articles</b>  
     <br>
     <a href="https://rjionline.org/news/embracing-data-driven-audio-as-a-storytelling-method/" target="_blank">Embracing data-driven audio as a storytelling method</a> | August 8, 2024 <br>
     <a href="https://rjionline.org/news/breaking-down-the-barriers-to-data-sonification/" target="_blank">Breaking down the barriers to data sonification</a> | September 12, 2024<br>
+    <br>
+    <br>
+    <br>
     <a href="https://rjionline.org/news/toolkit-overview-examples-tutorials-resources/" target="_blank">Toolkit overview: Examples, tutorials, resources</a> | October 3, 2024<br>
     <a href="https://rjionline.org/news/why-journalists-should-care-about-design-conscious-sonification/" target="_blank">Why journalists should care about design-conscious sonification</a> | November 4, 2024<br>
     <a href="https://rjionline.org/news/customization-is-key-to-a-compelling-sonification/" target="_blank">Customization is key to a compelling sonification</a> | December 3, 2024<br>
@@ -246,11 +268,49 @@ Probability & Statistics for Deep Learning, Data Science in R</em></p>
 
 ---
 
-<p class="link-color-special" style="max-width: 92%;">References are available upon request. <br> <br> Visit <a href="https://aurawalmer.com/" target="_blank">www.aurawalmer.com</a> for respective portfolios on data-driven projects, artwork, and audio.
+<!-- <h2>Presentations</h2> -->
+
+## Recognitions & Community
+
+<ul style="max-width: 80%;">
+  <li class="link-color-special"><a href="https://www.sonificationawards.org/" target="_blank">Data Sonification Awards</a> Recipient, 2025 
+    <div style="margin: 10px 0;"></div>
+
+  <li class="link-color-special"><a href="https://opennews.org/what/community/scholarships/" target="_blank">OpenNews Scholarship</a> Recipient, 2025
+    <div style="margin: 10px 0;"></div>
+
+  <li class="link-color-special"><a href="https://rjionline.org/about-rji-fellowships/" target="_blank">Reynolds Journalism Institute</a> Professional Innovation Fellow, 2024-25
+    <div style="margin: 10px 0;"></div>
+
+  <li class="link-color-special"><a href="https://www.datavisualizationsociety.org/" target="_blank">Data Visualization Society</a> Mentorship Cohort: Winter 2024, Summer 2025
+    <div style="margin: 10px 0;"></div>
+
+  <li class="link-color-special">Community Member <br>
+  International Community for Auditory Display (ICAD),
+  Decibels Community (Discord),
+  Sonification World Chat (SWC)<br>
+  Investigative Reporters and Editors (IRE & NICAR),
+  OpenNews Community (SRCCON)
+    <div style="margin: 10px 0;"></div>
+
+</ul>
+
+---
+
+<p class="link-color-special" style="max-width: 92%;">References are available upon request. <br> <br> 
+Visit <a href="https://aurawalmer.com/" target="_blank">www.aurawalmer.com</a> for respective portfolios of data-driven projects, artwork, and audio. <br> <br> 
+The digital version of this resume is available at <a href="https://awalmer.github.io/cv/" target="_blank">https://awalmer.github.io/cv/</a>.
 </p>
 
 
+<br>
+<br>
+<br>
+
+
+<!-- 
 <h1><a href="">↑</a></h1>
+-->
 
 
 <!-- Special styling for professional experience! -->
