@@ -47,7 +47,7 @@ theme: ink
 </div>
 <p style="max-width: 80%;" class="link-color-special">Processing and enhancing data and documentation for <a href="https://www.icpsr.umich.edu/sites/icpsr/home" target="_blank">ICPSR</a> research studies. Using R, Python, SPSS, and/or SAS to handle data. Writing code for batch processing, data cleaning, quality review, and metadata creation.
 <br>
-Built an internal R package that builds file templates for larger study deposits.
+Built an internal R package that generates file templates for larger study deposits.
 </p>
 
 
