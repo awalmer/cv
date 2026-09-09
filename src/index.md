@@ -1,7 +1,7 @@
 ---
 sidebar: false
-header: <b>Aura Walmer</b> &nbsp; | &nbsp; <a href="">Curriculum Vitae</a>
-title: "Aura Walmer CV"
+header: <b>Auralee Walmer</b> &nbsp; | &nbsp; <a href="">Curriculum Vitae</a>
+# title: "Auralee Walmer CV"
 footer: false
 pager: false
 toc: true
@@ -12,24 +12,35 @@ theme: ink
 
 <!-- Can add "toc: {label: "Sections", show: true}," to config.js file if desired to change Content TOC heading -->
 
-<h1 style="max-width: 100%; font-size: 172%;">Information designer | programmer | researcher | musician</h1>
+<h1 style="max-width: 100%; font-size: 172%;">Programmer | information designer | researcher | musician</h1>
 
-<p style="max-width: 92%; font-size: 1.13rem">Combining data, audio, and visuals to communicate information in unique and creative ways. <br>Using interdisciplinary methods to explore multimodal expressions of data.</p>
+<p style="max-width: 92%; font-size: 1.13rem">Exploring the intersection of computation, humans, and sound. <br> Blending data, audio, and visuals for applications in communication and learning. <br></p>
 
 <p  class="link-color-special"><a href="https://aurawalmer.com/" target="_blank">www.aurawalmer.com</a> &nbsp; • &nbsp; aurawalmer@gmail.com</p>
 
----
+<br>
 
-<!-- <h2>Technical Skills</h2> --> 
+<h3>Highlights</h3>
+<ul class="light-link" style="max-width: 100%;">
+Pursuing a <b>Master's of Arts in Music, Science, and Technology</b> at <a href="https://ccrma.stanford.edu/" target="_blank">CCRMA, Stanford University</a>.<br>
+Author/coauthor of <b>3</b> <a href="https://awalmer.github.io/cv/#publications">publications</a> | author of <b>9</b> <a href="https://awalmer.github.io/cv/#publications">articles</a> | presenter at <b>8</b> <a href="https://awalmer.github.io/cv/#presentations" >conferences</a>.<br>
+Built a <a href="https://www.sonificationkit.com/" target="_blank">data sonification toolkit</a> used by NPR, podcasters, and researchers.<br>
+Performed in an interactive <a href="https://www.livingdata.live/" target="_blank">"Living Data" Concert</a>.<br>
+Developed two <a href="https://github.com/awalmer/AC-SINS_Analysis" target="_blank">web applications</a> at Eli Lilly used for COVID-19 research.
+</ul>
 
-## Technical Skills
+<br>
+
+<!-- <h3>Technical Skills</h3> --> 
+
+### Technical Skills
 
 <ul style="max-width: 80%;">
-  <li><b>Code:</b> R, Python, HTML, CSS, JavaScript, SPSS, SAS, Unix / Bash scripting, XML</li>
+  <li><b>Code:</b> R, Python, C++, JavaScript, HTML, CSS, SPSS, SAS, Unix / Bash scripting, XML</li>
   <li><b>Data Visualization:</b> Observable, D3.js, p5.js, SVGs, Datawrapper, Highcharts, Figma, Flourish, QGIS</li>
   <li><b>Adobe Creative Suite:</b> Illustrator, After Effects, Photoshop, Express, Premiere Pro</li>
   <li><b>Frameworks / Database:</b> GitHub, GitBook, SQL, Django</li>
-  <li><b>Audio:</b> Logic Pro X, Sonic Pi, Ableton Live, Python</li>
+  <li><b>Audio:</b> Logic Pro X, Ableton Live, Sonic Pi, Max/MSP, Python, C++, ChucK</li>
 </ul>
 
 ---
@@ -41,23 +52,23 @@ theme: ink
 ## Professional Experience
 
 <div class="single-spaced">
-    <h3>Data Curator</h3>
+    <h3>Data Curator (Research Technician Lead)</h3>
     <p>University of Michigan | Remote</p>
-    <p><em>July 2024 — Present</em></p>
+    <p><em>July 2024 — August 2026</em></p>
 </div>
-<p style="max-width: 80%;" class="link-color-special">Processing and enhancing data and documentation for <a href="https://www.icpsr.umich.edu/sites/icpsr/home" target="_blank">ICPSR</a> research studies. Using R, Python, SPSS, and/or SAS to handle data. Writing code for batch processing, data cleaning, quality review, and metadata creation.
+<p style="max-width: 80%;" class="link-color-special">Processed and enhanced data and documentation for <a href="https://www.icpsr.umich.edu/sites/icpsr/home" target="_blank">ICPSR</a> research studies. Used R, Python, SPSS, and/or SAS to handle data. Wrote code for batch processing, data cleaning, quality review, and metadata creation.
 <br>
-Built an internal R package that generates file templates for larger study deposits.
+Built an internal R package that generates file templates for large study deposits.
 </p>
 
 
 <div class="single-spaced">
     <h3>Research Fellow</h3>
     <p>Reynolds Journalism Institute | Remote</p>
-    <p><em>May 2024 – Present</em></p>
+    <p><em>May 2024 – Feb 2026</em></p>
 </div>
 <p style="max-width: 80%;" class="link-color-special">
-Building a data sonification toolkit designed to centralize a wide array of sonification resources. The aim of this project is to help journalists and information designers learn about sonification and encourage them to use this unique and accessible method of conveying information.
+Built a data sonification toolkit designed to centralize a wide array of sonification resources. The aim of this project is to help journalists and information designers learn about sonification and encourage them to use this unique and accessible method of conveying information.
 <br>
 Toolkit: <a href="https://www.sonificationkit.com/" target="_blank">www.sonificationkit.com</a> | Monthly Articles: <a href="https://rjionline.org/person/auralee-walmer/" target="_blank">RJI Online</a>
 </p>
@@ -67,12 +78,12 @@ Toolkit: <a href="https://www.sonificationkit.com/" target="_blank">www.sonifica
     <p>Georgia Institute of Technology | Remote</p>
     <p><em>March 2023 – June 2024</em></p>
 </div>
-<p style="max-width: 80%;">
-    <ul style="max-width: 70%;">
-        <li>Developed accessible, sound-based educational resources with the Georgia Tech Sonification Lab.</li>
-        <li class="link-color-special">Presented at the International Conference on Auditory Display (ICAD 2024). Publication: "<a href="https://icad2024.icad.org/wp-content/uploads/2024/06/ICAD_2024_paper_30.pdf" target="_blank">Accessible Sonification of Total Solar Eclipse 2024</a>."</li>
-        <li>Built a custom website, wrote scripts in Python, and generated sonifications in Highcharts.</li>
-    </ul>
+<p style="max-width: 80%;" class="link-color-special">
+Developed accessible, sound-based educational resources with the Georgia Tech Sonification Lab. <br>
+Presented at the International Conference on Auditory Display (ICAD 2024). <br>
+<em>Publication: "<a href="https://icad2024.icad.org/wp-content/uploads/2024/06/ICAD_2024_paper_30.pdf" target="_blank">Accessible Sonification of Total Solar Eclipse 2024</a>."</em> <br>
+Built a custom website, wrote Python scripts, and generated sonifications in Highcharts.
+<br>
 </p>
 
 
@@ -135,10 +146,18 @@ See portfolio for project listings: <a href="https://aurawalmer.com/data" target
 ## Education
 
 <div class="single-spaced">
-    <h3>University of California, Santa Cruz</h3>
-    <p>B.A. in Economics & Mathematics, Minor in Politics</p>
-    <p>Magna Cum Laude | Major GPA 3.95</p>
-    <p>2011 – 2015</p>
+    <h3>Stanford University</h3>
+    <p>Master of Arts in Music, Science and Technology</p>
+    <p>Center for Computer Research in Music and Acoustics</p>
+    <p>2026 – 2028</p>
+</div>
+
+<div class="single-spaced">
+    <h3><em>Supplemental Coursework</em></h3>
+    Machine Learning Algorithms (CSE 151A) | University of California, San Diego | 2026 <br>
+    Web Design &nbsp; • &nbsp; Adobe Illustrator &nbsp; • &nbsp; Art History: Renaissance to Modern | MiraCosta College | 2022-24 <br>
+    Machine Learning with Python | Stanford University | 2021 <br>
+    Audio Engineering Intensive | Studio West | 2021 <br>
 </div>
 
 <div class="single-spaced">
@@ -146,20 +165,15 @@ See portfolio for project listings: <a href="https://aurawalmer.com/data" target
     <p>Certificate in Machine Learning Methods | GPA 4.0</p>
     <p>2018 – 2021</p>
 </div>
-<p style="max-width: 80%; margin-top: 0em;"><b>Courses:</b> <em>Linear Algebra for Machine Learning, Practicum for Deep Neural Networks,
-Probability & Statistics for Deep Learning, Data Science in R</em></p>
+<p style="max-width: 80%; margin-top: 0em;"><b>Courses:</b> <em>Linear Algebra for Machine Learning, Practicum for Deep Neural Networks, Probability & Statistics for Deep Learning, Data Science in R</em></p>
 
 <div class="single-spaced">
-    <h3>Additional Coursework</h3>
-    <p>2021 – 2023</p>
-    <ul style="margin-top: 0em;">
-        <li>Machine Learning with Python | Stanford University | 2021</li>
-        <li>Audio Engineering Fundamentals | Studio West | 2021</li>
-        <li>History of Renaissance to Modern Art | MiraCosta College | 2022</li>
-        <li>Adobe Illustrator Digital Illustration | MiraCosta College | 2023</li>
-        <li>Web Design Fundamentals | MiraCosta College | 2024</li>
-    </ul>
+    <h3>University of California, Santa Cruz</h3>
+    <p>B.A. in Economics & Mathematics, Minor in Politics</p>
+    <p>Magna Cum Laude | Major GPA 3.95</p>
+    <p>2011 – 2015</p>
 </div>
+
 
 
 ---
@@ -300,11 +314,19 @@ Probability & Statistics for Deep Learning, Data Science in R</em></p>
 }
 */
 
-#observablehq-header {
-  font-size: 110%;
-  padding-top: 0.8rem;
-  padding-bottom: 0.8rem;
-}
+    #observablehq-header {
+      font-size: 110%;
+      padding-top: 0.8rem;
+      padding-bottom: 0.8rem;
+    }
+
+    #observablehq-header a {
+      color: #8FBFF2;
+    }
+
+    #observablehq-toc a:hover {
+      color: #8FBFF2;
+    }
 
     .single-spaced {
     margin-top: 2em;
@@ -333,5 +355,10 @@ Probability & Statistics for Deep Learning, Data Science in R</em></p>
     .spaced-element {
     margin-bottom: 20px; /* Adds 20 pixels of space below the element */
     }
+
+    .light-link a {
+    color: #8FBFF2;
+    }
+
 
 </style>
