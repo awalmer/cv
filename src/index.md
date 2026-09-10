@@ -14,19 +14,19 @@ theme: ink
 
 <h1 style="max-width: 100%; font-size: 172%;">Programmer | information designer | researcher | musician</h1>
 
-<p style="max-width: 92%; font-size: 1.13rem">Exploring the intersection of computation, humans, and sound. <br> Blending data, audio, and visuals for applications in communication and learning. <br></p>
+<p style="max-width: 92%; font-size: 1.13rem">Exploring the intersection of computation, humans, and sound. <br> Blending data, audio, and visuals for applications in communication and storytelling. <br></p>
 
 <p  class="link-color-special"><a href="https://aurawalmer.com/" target="_blank">www.aurawalmer.com</a> &nbsp; • &nbsp; aurawalmer@gmail.com</p>
 
 <br>
 
 <h3>Highlights</h3>
-<ul class="light-link" style="max-width: 100%;">
-Pursuing a <b>Master's of Arts in Music, Science, and Technology</b> at <a href="https://ccrma.stanford.edu/" target="_blank">CCRMA, Stanford University</a>.<br>
-Author/coauthor of <b>3</b> <a href="https://awalmer.github.io/cv/#publications">publications</a> | author of <b>9</b> <a href="https://awalmer.github.io/cv/#publications">articles</a> | presenter at <b>8</b> <a href="https://awalmer.github.io/cv/#presentations" >conferences</a>.<br>
-Built a <a href="https://www.sonificationkit.com/" target="_blank">data sonification toolkit</a> used by NPR, podcasters, and researchers.<br>
-Performed in an interactive <a href="https://www.livingdata.live/" target="_blank">"Living Data" Concert</a>.<br>
-Developed two <a href="https://github.com/awalmer/AC-SINS_Analysis" target="_blank">web applications</a> at Eli Lilly used for COVID-19 research.
+<ul class="light-link" style="max-width: 80%;">
+  <li>Pursuing a <b>Master's of Arts in Music, Science, and Technology</b> at <a href="https://ccrma.stanford.edu/" target="_blank">CCRMA, Stanford University</a>.</li>
+  <li>Author/coauthor of <b>3</b> <a href="https://awalmer.github.io/cv/#publications">publications</a> | author of <b>9</b> <a href="https://awalmer.github.io/cv/#publications">articles</a> | presenter at <b>8</b> <a href="https://awalmer.github.io/cv/#presentations" >conferences</a>.</li>
+  <li>Built a <a href="https://www.sonificationkit.com/" target="_blank">data sonification toolkit</a> used by NPR, podcasters, and researchers.</li>
+  <li>Performed in an interactive <a href="https://www.livingdata.live/" target="_blank">"Living Data" Concert</a>.</li>
+  <li>Developed two <a href="https://github.com/awalmer/AC-SINS_Analysis" target="_blank">web applications</a> at Eli Lilly used for COVID-19 research.</li>
 </ul>
 
 <br>
@@ -154,6 +154,7 @@ See portfolio for project listings: <a href="https://aurawalmer.com/data" target
 
 <div class="single-spaced">
     <h3><em>Supplemental Coursework</em></h3>
+    Deep Learning for Music Information Retrieval | CCRMA Workshop at Stanford | 2026 <br> 
     Machine Learning Algorithms (CSE 151A) | University of California, San Diego | 2026 <br>
     Web Design &nbsp; • &nbsp; Adobe Illustrator &nbsp; • &nbsp; Art History: Renaissance to Modern | MiraCosta College | 2022-24 <br>
     Machine Learning with Python | Stanford University | 2021 <br>
@@ -227,6 +228,16 @@ See portfolio for project listings: <a href="https://aurawalmer.com/data" target
     <br>
     Performed at Whitman College on Nov. 7th, 2025. Each contributor shared sound works inspired by the theme "living data." Performers: Aura Walmer, Jordan Wirfs-Brock, Tristan Peng, and Walker Smith. Website: <a href="https://www.livingdata.live/" target="_blank">www.livingdata.live</a>. </li>
     <div style="margin: 10px 0;"></div>
+  
+   <li class="link-color-special"><b>SRCCON Conference 2026</b>  
+    <br>
+    Led a workshop called "Sound play and rebellious human-made craft," guiding participants through sound-centered exercises and alternative techniques for crafting short form audio documentaries, sound art, or podcasts. <a href="https://2026.srccon.org/program/#session-rebellious-sound-play" target="_blank">Workshop description</a> and <a href="https://docs.google.com/document/d/1Tdn-ygFp2YRkcX-EigsJ_PS_FKQ2baRfU7qkg6O1PJg" target="_blank">workshop document</a>. (July 2026)</li>
+    <div style="margin: 10px 0;"></div>
+
+   <li class="link-color-special"><b>ICAD Conference 2026</b>  
+    <br>
+    Gave lightning talk and participated in a panel about data sonification for public egagement. Extended abstract in proceedings: "The Data Sonification Toolkit: Centralizing Resources to Support the Sonification Community." (July 2026) </li>
+    <div style="margin: 10px 0;"></div>
 
 </ul>
 
@@ -265,19 +276,22 @@ See portfolio for project listings: <a href="https://aurawalmer.com/data" target
     <a href="https://rjionline.org/news/youre-not-alone/" target="_blank">You’re not alone</a> | February 19, 2025<br>
     <a href="https://rjionline.org/news/introducing-the-data-sonification-toolkit/" target="_blank">Introducing the Data Sonification Toolkit</a> | February 27, 2025<br>
     <div style="margin: 10px 0;"></div>
+    <li class="link-color-special"><b>"The Data Sonification Toolkit: Centralizing Resources to Support the Sonification Community"</b>  
+    <br>
+    ICAD Conference 2026 | <a href="https://interactive-sonification.org/icad2026/" target="_blank">Proceedings</a> | July 2026</li>
 </ul>
 
 ---
 
-<!-- <h2>Presentations</h2> -->
+<!-- <h2>Recognitions & Community</h2> -->
 
 ## Recognitions & Community
 
 <ul style="max-width: 80%;">
-  <li class="link-color-special"><a href="https://www.sonificationawards.org/" target="_blank">Data Sonification Awards</a> Recipient, 2025 
+  <li class="link-color-special"><a href="https://www.sonificationawards.org/" target="_blank">Data Sonification Awards</a> Recipient, 2025 & 2026
     <div style="margin: 10px 0;"></div>
 
-  <li class="link-color-special"><a href="https://opennews.org/what/community/scholarships/" target="_blank">OpenNews Scholarship</a> Recipient, 2025
+  <li class="link-color-special"><a href="https://opennews.org/what/community/scholarships/" target="_blank">OpenNews Scholarship</a> Recipient, 2025 & 2026
     <div style="margin: 10px 0;"></div>
 
   <li class="link-color-special"><a href="https://rjionline.org/about-rji-fellowships/" target="_blank">Reynolds Journalism Institute</a> Professional Innovation Fellow, 2024-25
