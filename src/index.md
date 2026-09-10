@@ -22,7 +22,7 @@ theme: ink
 
 <h3>Highlights</h3>
 <ul class="light-link" style="max-width: 80%;">
-  <li>Pursuing a <b>Master's of Arts in Music, Science, and Technology</b> at <a href="https://ccrma.stanford.edu/" target="_blank">CCRMA, Stanford University</a>.</li>
+  <li>Pursuing a <b>M.A. in Music, Science, and Technology</b> at <a href="https://ccrma.stanford.edu/" target="_blank">CCRMA, Stanford University</a>.</li>
   <li>Author/coauthor of <b>3</b> <a href="https://awalmer.github.io/cv/#publications">publications</a> | author of <b>9</b> <a href="https://awalmer.github.io/cv/#publications">articles</a> | presenter at <b>8</b> <a href="https://awalmer.github.io/cv/#presentations" >conferences</a>.</li>
   <li>Built a <a href="https://www.sonificationkit.com/" target="_blank">data sonification toolkit</a> used by NPR, podcasters, and researchers.</li>
   <li>Performed in an interactive <a href="https://www.livingdata.live/" target="_blank">"Living Data" Concert</a>.</li>
